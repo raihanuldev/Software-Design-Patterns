@@ -19,6 +19,6 @@ class Program
         Singleton obj1 = Singleton.GetInstance();
         Singleton obj2 = Singleton.GetInstance();
         // now check two object are same or not... definitely will same. 
-        Console.WriteLine(obj1==obj2);
+        Console.WriteLine(obj1 == obj2);
     }
 }

@@ -1,0 +1,15 @@
+D:\Desgin Patterns\Builder\bin\Debug\net10.0\Builder.exe
+D:\Desgin Patterns\Builder\bin\Debug\net10.0\Builder.deps.json
+D:\Desgin Patterns\Builder\bin\Debug\net10.0\Builder.runtimeconfig.json
+D:\Desgin Patterns\Builder\bin\Debug\net10.0\Builder.dll
+D:\Desgin Patterns\Builder\bin\Debug\net10.0\Builder.pdb
+D:\Desgin Patterns\Builder\obj\Debug\net10.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desgin Patterns\Builder\obj\Debug\net10.0\Builder.AssemblyInfoInputs.cache
+D:\Desgin Patterns\Builder\obj\Debug\net10.0\Builder.AssemblyInfo.cs
+D:\Desgin Patterns\Builder\obj\Debug\net10.0\Builder.csproj.CoreCompileInputs.cache
+D:\Desgin Patterns\Builder\obj\Debug\net10.0\Builder.sourcelink.json
+D:\Desgin Patterns\Builder\obj\Debug\net10.0\Builder.dll
+D:\Desgin Patterns\Builder\obj\Debug\net10.0\refint\Builder.dll
+D:\Desgin Patterns\Builder\obj\Debug\net10.0\Builder.pdb
+D:\Desgin Patterns\Builder\obj\Debug\net10.0\Builder.genruntimeconfig.cache
+D:\Desgin Patterns\Builder\obj\Debug\net10.0\ref\Builder.dll
