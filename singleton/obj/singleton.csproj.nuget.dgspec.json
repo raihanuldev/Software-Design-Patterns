@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Desgin Patterns\\Builder\\Builder.csproj": {}
+    "D:\\Desgin Patterns\\singleton\\singleton.csproj": {}
   },
   "projects": {
-    "d:\\Desgin Patterns\\Builder\\Builder.csproj": {
+    "D:\\Desgin Patterns\\singleton\\singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Desgin Patterns\\Builder\\Builder.csproj",
-        "projectName": "Builder",
-        "projectPath": "d:\\Desgin Patterns\\Builder\\Builder.csproj",
+        "projectUniqueName": "D:\\Desgin Patterns\\singleton\\singleton.csproj",
+        "projectName": "singleton",
+        "projectPath": "D:\\Desgin Patterns\\singleton\\singleton.csproj",
         "packagesPath": "C:\\Users\\rihan\\.nuget\\packages\\",
-        "outputPath": "d:\\Desgin Patterns\\Builder\\obj\\",
+        "outputPath": "D:\\Desgin Patterns\\singleton\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

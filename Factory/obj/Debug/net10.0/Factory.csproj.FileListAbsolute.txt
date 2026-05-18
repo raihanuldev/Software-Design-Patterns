@@ -1,0 +1,15 @@
+D:\Desgin Patterns\Factory\bin\Debug\net10.0\Factory.exe
+D:\Desgin Patterns\Factory\bin\Debug\net10.0\Factory.deps.json
+D:\Desgin Patterns\Factory\bin\Debug\net10.0\Factory.runtimeconfig.json
+D:\Desgin Patterns\Factory\bin\Debug\net10.0\Factory.dll
+D:\Desgin Patterns\Factory\bin\Debug\net10.0\Factory.pdb
+D:\Desgin Patterns\Factory\obj\Debug\net10.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desgin Patterns\Factory\obj\Debug\net10.0\Factory.AssemblyInfoInputs.cache
+D:\Desgin Patterns\Factory\obj\Debug\net10.0\Factory.AssemblyInfo.cs
+D:\Desgin Patterns\Factory\obj\Debug\net10.0\Factory.csproj.CoreCompileInputs.cache
+D:\Desgin Patterns\Factory\obj\Debug\net10.0\Factory.sourcelink.json
+D:\Desgin Patterns\Factory\obj\Debug\net10.0\Factory.dll
+D:\Desgin Patterns\Factory\obj\Debug\net10.0\refint\Factory.dll
+D:\Desgin Patterns\Factory\obj\Debug\net10.0\Factory.pdb
+D:\Desgin Patterns\Factory\obj\Debug\net10.0\Factory.genruntimeconfig.cache
+D:\Desgin Patterns\Factory\obj\Debug\net10.0\ref\Factory.dll
