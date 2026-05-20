@@ -1,0 +1,15 @@
+D:\Desgin Patterns\AbstractFactory\bin\Debug\net10.0\AbstractFactory.exe
+D:\Desgin Patterns\AbstractFactory\bin\Debug\net10.0\AbstractFactory.deps.json
+D:\Desgin Patterns\AbstractFactory\bin\Debug\net10.0\AbstractFactory.runtimeconfig.json
+D:\Desgin Patterns\AbstractFactory\bin\Debug\net10.0\AbstractFactory.dll
+D:\Desgin Patterns\AbstractFactory\bin\Debug\net10.0\AbstractFactory.pdb
+D:\Desgin Patterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desgin Patterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.AssemblyInfoInputs.cache
+D:\Desgin Patterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.AssemblyInfo.cs
+D:\Desgin Patterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.csproj.CoreCompileInputs.cache
+D:\Desgin Patterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.sourcelink.json
+D:\Desgin Patterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.dll
+D:\Desgin Patterns\AbstractFactory\obj\Debug\net10.0\refint\AbstractFactory.dll
+D:\Desgin Patterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.pdb
+D:\Desgin Patterns\AbstractFactory\obj\Debug\net10.0\AbstractFactory.genruntimeconfig.cache
+D:\Desgin Patterns\AbstractFactory\obj\Debug\net10.0\ref\AbstractFactory.dll
