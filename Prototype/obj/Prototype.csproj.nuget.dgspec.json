@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Desgin Patterns\\AbstractFactory\\AbstractFactory.csproj": {}
+    "d:\\Desgin Patterns\\Prototype\\Prototype.csproj": {}
   },
   "projects": {
-    "d:\\Desgin Patterns\\AbstractFactory\\AbstractFactory.csproj": {
+    "d:\\Desgin Patterns\\Prototype\\Prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Desgin Patterns\\AbstractFactory\\AbstractFactory.csproj",
-        "projectName": "AbstractFactory",
-        "projectPath": "d:\\Desgin Patterns\\AbstractFactory\\AbstractFactory.csproj",
+        "projectUniqueName": "d:\\Desgin Patterns\\Prototype\\Prototype.csproj",
+        "projectName": "Prototype",
+        "projectPath": "d:\\Desgin Patterns\\Prototype\\Prototype.csproj",
         "packagesPath": "C:\\Users\\rihan\\.nuget\\packages\\",
-        "outputPath": "d:\\Desgin Patterns\\AbstractFactory\\obj\\",
+        "outputPath": "d:\\Desgin Patterns\\Prototype\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
