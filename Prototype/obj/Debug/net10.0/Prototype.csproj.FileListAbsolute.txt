@@ -1,0 +1,15 @@
+D:\Desgin Patterns\Prototype\bin\Debug\net10.0\Prototype.exe
+D:\Desgin Patterns\Prototype\bin\Debug\net10.0\Prototype.deps.json
+D:\Desgin Patterns\Prototype\bin\Debug\net10.0\Prototype.runtimeconfig.json
+D:\Desgin Patterns\Prototype\bin\Debug\net10.0\Prototype.dll
+D:\Desgin Patterns\Prototype\bin\Debug\net10.0\Prototype.pdb
+D:\Desgin Patterns\Prototype\obj\Debug\net10.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desgin Patterns\Prototype\obj\Debug\net10.0\Prototype.AssemblyInfoInputs.cache
+D:\Desgin Patterns\Prototype\obj\Debug\net10.0\Prototype.AssemblyInfo.cs
+D:\Desgin Patterns\Prototype\obj\Debug\net10.0\Prototype.csproj.CoreCompileInputs.cache
+D:\Desgin Patterns\Prototype\obj\Debug\net10.0\Prototype.sourcelink.json
+D:\Desgin Patterns\Prototype\obj\Debug\net10.0\Prototype.dll
+D:\Desgin Patterns\Prototype\obj\Debug\net10.0\refint\Prototype.dll
+D:\Desgin Patterns\Prototype\obj\Debug\net10.0\Prototype.pdb
+D:\Desgin Patterns\Prototype\obj\Debug\net10.0\Prototype.genruntimeconfig.cache
+D:\Desgin Patterns\Prototype\obj\Debug\net10.0\ref\Prototype.dll
