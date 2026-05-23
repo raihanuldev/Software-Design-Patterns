@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desgin Patterns\\AbstractFactory\\AbstractFactory.csproj": {}
+    "d:\\Desgin Patterns\\Adapter-Pattern\\Adapter-Pattern.csproj": {}
   },
   "projects": {
-    "D:\\Desgin Patterns\\AbstractFactory\\AbstractFactory.csproj": {
+    "d:\\Desgin Patterns\\Adapter-Pattern\\Adapter-Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desgin Patterns\\AbstractFactory\\AbstractFactory.csproj",
-        "projectName": "AbstractFactory",
-        "projectPath": "D:\\Desgin Patterns\\AbstractFactory\\AbstractFactory.csproj",
+        "projectUniqueName": "d:\\Desgin Patterns\\Adapter-Pattern\\Adapter-Pattern.csproj",
+        "projectName": "Adapter-Pattern",
+        "projectPath": "d:\\Desgin Patterns\\Adapter-Pattern\\Adapter-Pattern.csproj",
         "packagesPath": "C:\\Users\\rihan\\.nuget\\packages\\",
-        "outputPath": "D:\\Desgin Patterns\\AbstractFactory\\obj\\",
+        "outputPath": "d:\\Desgin Patterns\\Adapter-Pattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
