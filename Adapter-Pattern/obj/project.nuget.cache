@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nkuLghwqKLs=",
+  "dgSpecHash": "95in0Gd+0Ec=",
   "success": true,
-  "projectFilePath": "d:\\Desgin Patterns\\Adapter-Pattern\\Adapter-Pattern.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Desgin Patterns\\Adapter-Pattern\\Adapter-Pattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rihan\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512"
+  ],
   "logs": []
 }
