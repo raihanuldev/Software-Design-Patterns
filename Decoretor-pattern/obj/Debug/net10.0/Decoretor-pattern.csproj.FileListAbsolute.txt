@@ -1,0 +1,15 @@
+D:\Desgin Patterns\Decoretor-pattern\obj\Debug\net10.0\Decoretor-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desgin Patterns\Decoretor-pattern\obj\Debug\net10.0\Decoretor-pattern.AssemblyInfoInputs.cache
+D:\Desgin Patterns\Decoretor-pattern\obj\Debug\net10.0\Decoretor-pattern.AssemblyInfo.cs
+D:\Desgin Patterns\Decoretor-pattern\obj\Debug\net10.0\Decoretor-pattern.csproj.CoreCompileInputs.cache
+D:\Desgin Patterns\Decoretor-pattern\obj\Debug\net10.0\Decoretor-pattern.sourcelink.json
+D:\Desgin Patterns\Decoretor-pattern\bin\Debug\net10.0\Decoretor-pattern.exe
+D:\Desgin Patterns\Decoretor-pattern\bin\Debug\net10.0\Decoretor-pattern.deps.json
+D:\Desgin Patterns\Decoretor-pattern\bin\Debug\net10.0\Decoretor-pattern.runtimeconfig.json
+D:\Desgin Patterns\Decoretor-pattern\bin\Debug\net10.0\Decoretor-pattern.dll
+D:\Desgin Patterns\Decoretor-pattern\bin\Debug\net10.0\Decoretor-pattern.pdb
+D:\Desgin Patterns\Decoretor-pattern\obj\Debug\net10.0\Decoretor-pattern.dll
+D:\Desgin Patterns\Decoretor-pattern\obj\Debug\net10.0\refint\Decoretor-pattern.dll
+D:\Desgin Patterns\Decoretor-pattern\obj\Debug\net10.0\Decoretor-pattern.pdb
+D:\Desgin Patterns\Decoretor-pattern\obj\Debug\net10.0\Decoretor-pattern.genruntimeconfig.cache
+D:\Desgin Patterns\Decoretor-pattern\obj\Debug\net10.0\ref\Decoretor-pattern.dll
