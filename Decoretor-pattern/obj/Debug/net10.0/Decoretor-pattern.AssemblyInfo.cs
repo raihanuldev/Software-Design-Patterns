@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Decoretor-pattern")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a364eef6b2b1987378b4eef7fdaa0346f7c42abc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56bf139a9429825355f6a8da5b14d4b3598c9cf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Decoretor-pattern")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Decoretor-pattern")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
