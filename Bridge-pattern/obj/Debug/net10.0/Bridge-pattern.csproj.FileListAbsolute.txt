@@ -1,0 +1,15 @@
+D:\Desgin Patterns\Bridge-pattern\bin\Debug\net10.0\Bridge-pattern.exe
+D:\Desgin Patterns\Bridge-pattern\bin\Debug\net10.0\Bridge-pattern.deps.json
+D:\Desgin Patterns\Bridge-pattern\bin\Debug\net10.0\Bridge-pattern.runtimeconfig.json
+D:\Desgin Patterns\Bridge-pattern\bin\Debug\net10.0\Bridge-pattern.dll
+D:\Desgin Patterns\Bridge-pattern\bin\Debug\net10.0\Bridge-pattern.pdb
+D:\Desgin Patterns\Bridge-pattern\obj\Debug\net10.0\Bridge-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desgin Patterns\Bridge-pattern\obj\Debug\net10.0\Bridge-pattern.AssemblyInfoInputs.cache
+D:\Desgin Patterns\Bridge-pattern\obj\Debug\net10.0\Bridge-pattern.AssemblyInfo.cs
+D:\Desgin Patterns\Bridge-pattern\obj\Debug\net10.0\Bridge-pattern.csproj.CoreCompileInputs.cache
+D:\Desgin Patterns\Bridge-pattern\obj\Debug\net10.0\Bridge-pattern.sourcelink.json
+D:\Desgin Patterns\Bridge-pattern\obj\Debug\net10.0\Bridge-pattern.dll
+D:\Desgin Patterns\Bridge-pattern\obj\Debug\net10.0\refint\Bridge-pattern.dll
+D:\Desgin Patterns\Bridge-pattern\obj\Debug\net10.0\Bridge-pattern.pdb
+D:\Desgin Patterns\Bridge-pattern\obj\Debug\net10.0\Bridge-pattern.genruntimeconfig.cache
+D:\Desgin Patterns\Bridge-pattern\obj\Debug\net10.0\ref\Bridge-pattern.dll
