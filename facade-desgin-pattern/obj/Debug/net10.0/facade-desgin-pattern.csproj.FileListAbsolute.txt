@@ -1,0 +1,15 @@
+D:\Desgin Patterns\facade-desgin-pattern\bin\Debug\net10.0\facade-desgin-pattern.exe
+D:\Desgin Patterns\facade-desgin-pattern\bin\Debug\net10.0\facade-desgin-pattern.deps.json
+D:\Desgin Patterns\facade-desgin-pattern\bin\Debug\net10.0\facade-desgin-pattern.runtimeconfig.json
+D:\Desgin Patterns\facade-desgin-pattern\bin\Debug\net10.0\facade-desgin-pattern.dll
+D:\Desgin Patterns\facade-desgin-pattern\bin\Debug\net10.0\facade-desgin-pattern.pdb
+D:\Desgin Patterns\facade-desgin-pattern\obj\Debug\net10.0\facade-desgin-pattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desgin Patterns\facade-desgin-pattern\obj\Debug\net10.0\facade-desgin-pattern.AssemblyInfoInputs.cache
+D:\Desgin Patterns\facade-desgin-pattern\obj\Debug\net10.0\facade-desgin-pattern.AssemblyInfo.cs
+D:\Desgin Patterns\facade-desgin-pattern\obj\Debug\net10.0\facade-desgin-pattern.csproj.CoreCompileInputs.cache
+D:\Desgin Patterns\facade-desgin-pattern\obj\Debug\net10.0\facade-desgin-pattern.sourcelink.json
+D:\Desgin Patterns\facade-desgin-pattern\obj\Debug\net10.0\facade-desgin-pattern.dll
+D:\Desgin Patterns\facade-desgin-pattern\obj\Debug\net10.0\refint\facade-desgin-pattern.dll
+D:\Desgin Patterns\facade-desgin-pattern\obj\Debug\net10.0\facade-desgin-pattern.pdb
+D:\Desgin Patterns\facade-desgin-pattern\obj\Debug\net10.0\facade-desgin-pattern.genruntimeconfig.cache
+D:\Desgin Patterns\facade-desgin-pattern\obj\Debug\net10.0\ref\facade-desgin-pattern.dll
