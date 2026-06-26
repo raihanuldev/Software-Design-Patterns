@@ -1,7 +1,7 @@
 ﻿//let's go face the problem
 using System.ComponentModel.DataAnnotations.Schema;
 
-class InventoryService
+class InventoryService477
 {
     public void checkStock()
     {
